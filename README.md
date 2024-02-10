@@ -1,14 +1,14 @@
-Amazon Sales Project
+# Amazon Sales Project
 
-Overview:
+## Overview:
 
-Data Description:
+## Data Description:
 
-Features and Functionality:
+## Features and Functionality:
 
-Results and Key Insights:
+## Results and Key Insights:
 
-References:
+## References:
 Data - https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
 This project will include the folllowing skills to be highighted.
